@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ckisailus/catkin_ws/src/basic_vision/build/devel/setup.sh

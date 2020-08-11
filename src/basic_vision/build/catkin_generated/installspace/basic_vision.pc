@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: basic_vision
+Description: Description of basic_vision
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

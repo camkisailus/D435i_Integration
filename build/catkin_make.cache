@@ -1,0 +1,2 @@
+basic_vision:depth_image_to_laser:hector_mapping
+-DCATKIN_DEVEL_PREFIX=/home/ckisailus/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ckisailus/catkin_ws/install -G Unix Makefiles
